@@ -170,4 +170,4 @@
 
   
   
-  .<a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md" target="_blank"> <img id="BTD6Logo" align="left" alt="Icon" height="90" src="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/BTD6Logo.jpg"></a></p>
+  .<a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md" target="_blank"> <img id="BTD6Logo" align="left" alt="Icon" width="112.5" height="90" src="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/BTD6Logo.jpg"></a></p>
