@@ -5,7 +5,7 @@
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">My Sites About Interesting Games</h1>
 <p style="font-family:Lucida Handwriting;font-size:50px;" align="center">You can press any logo that looks interesting to you</p>
 <a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md" target="_blank"> <img id="BTD6Logo" align="left" alt="Icon" height="90" src="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/BTD6Logo.jpg"></a>
-<p>.
+<p>
   
   
   
@@ -18,11 +18,9 @@
 
 
 
-.
 
 
 
-.
 
 
 
@@ -32,90 +30,9 @@
 
 
 
-.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  .<a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md" target="_blank"> <img id="SplitgateLogo" align="left" alt="Icon" height="90" src="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/SplitgateLogo.jpg"></a></p>
-<p>.
-  
-  
-  
-
-
-
-
-
-
-
-
-
-.
-
-
-
-.
-
-
-
-
-
-
-
-
-
-.
 
 
 
@@ -170,4 +87,87 @@
 
   
   
-  .<a href="https://github.com/Sites-Of-A-Gamer/Minecraft/blob/main/README.md"> <img id="MinecraftLogo" align="left" alt="MinecraftLogo" width="112.5" height="90" src="https://github.com/Sites-Of-A-Gamer/Minecraft/blob/main/MinecraftLogo.jpg"></a></p>
+  <a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md" target="_blank"> <img id="SplitgateLogo" align="left" alt="Icon" height="90" src="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/SplitgateLogo.jpg"></a></p>
+<p>
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <a href="https://github.com/Sites-Of-A-Gamer/Minecraft/blob/main/README.md"> <img id="MinecraftLogo" align="left" alt="MinecraftLogo" width="112.5" height="90" src="https://github.com/Sites-Of-A-Gamer/Minecraft/blob/main/MinecraftLogo.jpg"></a></p>
