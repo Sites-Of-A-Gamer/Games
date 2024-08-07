@@ -87,7 +87,7 @@
 
   
   
-  <a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md" target="_blank"> <img id="SplitgateLogo" align="left" alt="Icon" height="90" src="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/SplitgateLogo.jpg"></a></p>
+ </p> <a href="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/README.md" target="_blank"> <img id="SplitgateLogo" align="left" alt="Icon" height="90" src="https://github.com/Sites-Of-A-Gamer/Splitgate/blob/main/SplitgateLogo.jpg"></a>
 <p>
   
   
