@@ -336,4 +336,4 @@
 
   
   
- . <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.steampowered.com/app/1557740/ROUNDS/&ved=2ahUKEwizmsO55-KHAxWcklYBHTAuJYgQFnoECAgQAQ&usg=AOvVaw39OXOa-8evSqiidZpH_crd"> <img id="header" align="left" alt="Icon" height="90" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg?t=1708524608"></a></p>
+ . <a href="https://github.com/Sites-Of-A-Gamer/Rounds/blob/main/README.md"> <img id="header" align="left" alt="Icon" height="90" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg?t=1708524608"></a></p>
